@@ -1,0 +1,154 @@
+<svg width="68" height="79" viewBox="0 0 68 79" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="68" height="79" fill="white"/>
+<path d="M21 15L20.5 12V7.49999L21 8.5L22 6L22.5 7.5L23.5 7L22 10L23 8.99999C24 7.49999 26.6 4.29999 29 3.49999C31.4 2.69999 33.3333 3.16666 34 3.49999L32.5 2L34 0L36 2L35.5 3.49999H38L39.5 5L39 6L40 7.5L41 6.5L42 9.5V12H42.5L43.5 14.5L43 15.5" stroke="black" stroke-width="0.5"/>
+<path d="M21 15C24.1667 12.6667 32.8 8.79999 42 12" stroke="black" stroke-width="0.5"/>
+<path d="M32.1667 12.0957C33.3667 11.8174 35.1111 12.2117 35.8333 12.4437C36.2222 12.3277 37.4667 12.1653 39.3333 12.4437C41.2 12.7221 41.7778 14.6476 41.8333 15.5756L42 22.7092C41.5 24.9711 40 29.7037 38 30.5389C36.6866 31.0873 34.4866 31.0655 32.6275 30.8873C31.0686 30.7379 29.7626 29.7121 29.0749 28.305L27.3621 24.8003C26.4858 23.0073 26.3113 20.9516 26.8729 19.0365L28.5 13.4877C29.2222 13.1397 30.9667 12.3741 32.1667 12.0957Z" stroke="black" stroke-width="0.5"/>
+<path d="M40.0251 13C40.2142 13.4615 40.5545 14.5577 40.4033 15.25C40.252 15.9423 40.3402 16.6923 40.4033 16.9808C40.6553 17.4423 41.1217 18.4692 40.9705 18.8846C40.8192 19.3 40.4033 21.25 40.2142 22.1731V24.0769C40.2142 24.8269 40.1386 26.4308 39.836 26.8462C39.5335 27.2615 39.0798 27.7115 38.8907 27.8846L37 28.2308V31" stroke="black" stroke-width="0.5"/>
+<path d="M31.5 16L34.5 15.5M38 15.5L39.5 16" stroke="black" stroke-width="0.5"/>
+<path d="M41.5 24.5L40.5 21.5L39 20.5H37L35.5 21L33.5 22.5L30 23.5L28 20.5L27.5 17L27 18V20V22.5L28 24.5L30.5 31H33H38L41.5 26.5V24.5Z" fill="black" stroke="black"/>
+<path d="M36 24V22.5L35 23L36 24Z" fill="white" stroke="white" stroke-width="0.5"/>
+<path d="M38.5 24.5V22.5L39 23L38.5 24.5Z" fill="white"/>
+<path d="M36 22.5C36.3333 22.3333 37.1 22 37.5 22C37.9 22 38.3333 22.3333 38.5 22.5M38.5 22.5V24.5L39 23L38.5 22.5Z" stroke="white" stroke-width="0.5"/>
+<path d="M38 20L37.5 15.5H38C38.4 15.5 39.1667 15.8333 39.5 16" stroke="black" stroke-width="0.5"/>
+<line x1="13" y1="39.5" x2="29" y2="39.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="37" y1="38.5" x2="46" y2="38.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="15" y1="37.5" x2="32" y2="37.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="40" y1="36.5" x2="48" y2="36.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="38" y1="30.5" x2="41" y2="30.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="33" y1="32.5" x2="40" y2="32.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="40" y1="28.5" x2="43" y2="28.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="40" y1="26.5" x2="43" y2="26.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="39" y1="24.5" x2="43" y2="24.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="40" y1="22.5" x2="43" y2="22.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="18" y1="35.5" x2="35" y2="35.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="43" y1="34.5" x2="48" y2="34.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="19" y1="33.5" x2="31" y2="33.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="44" y1="32.5" x2="47" y2="32.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="20" y1="31.5" x2="29" y2="31.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="21" y1="29.5" x2="28" y2="29.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="21" y1="27.5" x2="29" y2="27.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="20" y1="25.5" x2="29" y2="25.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="20" y1="23.5" x2="28" y2="23.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="20" y1="21.5" x2="28" y2="21.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="20" y1="19.5" x2="27" y2="19.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="21" y1="17.5" x2="27" y2="17.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="21" y1="15.5" x2="28" y2="15.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="24" y1="13.5" x2="28" y2="13.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="15" y1="41.5" x2="31" y2="41.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="40" y1="40.5" x2="47" y2="40.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="13" y1="43.5" x2="29" y2="43.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="37" y1="42.5" x2="46" y2="42.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="14" y1="45.5" x2="31" y2="45.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="39" y1="44.5" x2="47" y2="44.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="37" y1="50.5" x2="41" y2="50.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="39" y1="48.5" x2="44" y2="48.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="34" y1="52.5" x2="40" y2="52.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="35" y1="54.5" x2="39" y2="54.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="32" y1="56.5" x2="39" y2="56.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="16" y1="47.5" x2="33" y2="47.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="41" y1="46.5" x2="46" y2="46.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="17" y1="49.5" x2="21" y2="49.5" stroke="black" stroke-dasharray="2 2"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 42 19)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 43 20)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 27 21)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 27 23)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 28 25)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 37 60)" fill="black"/>
+<rect width="2" height="1" transform="matrix(-1 0 0 1 38 58)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 30 29)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 20 51)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 43 18)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 42 17)" fill="black"/>
+<rect x="42" y="16" width="1" height="1" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 42 21)" fill="black"/>
+<path d="M24.2046 9.49994L27.2046 6.49994C29.7047 6.99994 30.7563 6.35161 32.2047 5.99994" stroke="black" stroke-width="0.5"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 44 23)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 44 25)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 45 27)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 46 29)" fill="black"/>
+<path d="M14.7326 73.4V79H13.9326V76.504H10.7166V79H9.91656V73.4H10.7166V75.808H13.9326V73.4H14.7326ZM22.3767 77.6H19.4008L18.7848 79H17.9607L20.4968 73.4H21.2888L23.8328 79H22.9928L22.3767 77.6ZM22.0968 76.96L20.8888 74.216L19.6808 76.96H22.0968ZM27.0681 73.4H27.8681V79H27.0681V73.4ZM36.7607 73.4V79H36.1047L32.7447 74.824V79H31.9447V73.4H32.6007L35.9607 77.576V73.4H36.7607ZM46.0289 79L46.0209 74.92L43.9969 78.32H43.6289L41.6049 74.944V79H40.8369V73.4H41.4929L43.8289 77.336L46.1329 73.4H46.7889L46.7969 79H46.0289ZM54.4455 77.6H51.4695L50.8535 79H50.0295L52.5655 73.4H53.3575L55.9015 79H55.0615L54.4455 77.6ZM54.1655 76.96L52.9575 74.216L51.7495 76.96H54.1655ZM59.1369 73.4H59.9369V79H59.1369V73.4ZM64.0134 73.4H64.8134V78.304H67.8454V79H64.0134V73.4Z" fill="black"/>
+<circle cx="4" cy="76" r="2.625" stroke="black" stroke-width="0.75"/>
+<rect x="4" y="75" width="4" height="2" fill="white"/>
+<path d="M2 77H0" stroke="black" stroke-width="0.75"/>
+<path d="M2 75H0" stroke="black" stroke-width="0.75"/>
+<path d="M2 77C2.55228 77 3 76.5523 3 76C3 75.4477 2.55228 75 2 75" stroke="black" stroke-width="0.75"/>
+<path d="M21 15L20.5 12V7.49999L21 8.5L22 6L22.5 7.5L23.5 7L22 10L23 8.99999C24 7.49999 26.6 4.29999 29 3.49999C31.4 2.69999 33.3333 3.16666 34 3.49999L32.5 2L34 0L36 2L35.5 3.49999H38L39.5 5L39 6L40 7.5L41 6.5L42 9.5V12H42.5L43.5 14.5L43 15.5" stroke="black" stroke-width="0.5"/>
+<path d="M21 15C24.1667 12.6667 32.8 8.79999 42 12" stroke="black" stroke-width="0.5"/>
+<path d="M32.1667 12.0957C33.3667 11.8174 35.1111 12.2117 35.8333 12.4437C36.2222 12.3277 37.4667 12.1653 39.3333 12.4437C41.2 12.7221 41.7778 14.6476 41.8333 15.5756L42 22.7092C41.5 24.9711 40 29.7037 38 30.5389C36.6866 31.0873 34.4866 31.0655 32.6275 30.8873C31.0686 30.7379 29.7626 29.7121 29.0749 28.305L27.3621 24.8003C26.4858 23.0073 26.3113 20.9516 26.8729 19.0365L28.5 13.4877C29.2222 13.1397 30.9667 12.3741 32.1667 12.0957Z" stroke="black" stroke-width="0.5"/>
+<path d="M40.0251 13C40.2142 13.4615 40.5545 14.5577 40.4033 15.25C40.252 15.9423 40.3402 16.6923 40.4033 16.9808C40.6553 17.4423 41.1217 18.4692 40.9705 18.8846C40.8192 19.3 40.4033 21.25 40.2142 22.1731V24.0769C40.2142 24.8269 40.1386 26.4308 39.836 26.8462C39.5335 27.2615 39.0798 27.7115 38.8907 27.8846L37 28.2308V31" stroke="black" stroke-width="0.5"/>
+<path d="M31.5 16L34.5 15.5M38 15.5L39.5 16" stroke="black" stroke-width="0.5"/>
+<path d="M41.5 24.5L40.5 21.5L39 20.5H37L35.5 21L33.5 22.5L30 23.5L28 20.5L27.5 17L27 18V20V22.5L28 24.5L30.5 31H33H38L41.5 26.5V24.5Z" fill="black" stroke="black"/>
+<path d="M36 24V22.5L35 23L36 24Z" fill="white" stroke="white" stroke-width="0.5"/>
+<path d="M38.5 24.5V22.5L39 23L38.5 24.5Z" fill="white"/>
+<path d="M36 22.5C36.3333 22.3333 37.1 22 37.5 22C37.9 22 38.3333 22.3333 38.5 22.5M38.5 22.5V24.5L39 23L38.5 22.5Z" stroke="white" stroke-width="0.5"/>
+<path d="M38 20L37.5 15.5H38C38.4 15.5 39.1667 15.8333 39.5 16" stroke="black" stroke-width="0.5"/>
+<line x1="13" y1="39.5" x2="29" y2="39.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="37" y1="38.5" x2="46" y2="38.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="15" y1="37.5" x2="32" y2="37.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="40" y1="36.5" x2="48" y2="36.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="38" y1="30.5" x2="41" y2="30.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="33" y1="32.5" x2="40" y2="32.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="40" y1="28.5" x2="43" y2="28.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="40" y1="26.5" x2="43" y2="26.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="39" y1="24.5" x2="43" y2="24.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="40" y1="22.5" x2="43" y2="22.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="18" y1="35.5" x2="35" y2="35.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="43" y1="34.5" x2="48" y2="34.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="19" y1="33.5" x2="31" y2="33.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="44" y1="32.5" x2="47" y2="32.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="20" y1="31.5" x2="29" y2="31.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="21" y1="29.5" x2="28" y2="29.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="21" y1="27.5" x2="29" y2="27.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="20" y1="25.5" x2="29" y2="25.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="20" y1="23.5" x2="28" y2="23.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="20" y1="21.5" x2="28" y2="21.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="20" y1="19.5" x2="27" y2="19.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="21" y1="17.5" x2="27" y2="17.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="21" y1="15.5" x2="28" y2="15.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="24" y1="13.5" x2="28" y2="13.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="15" y1="41.5" x2="31" y2="41.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="40" y1="40.5" x2="47" y2="40.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="13" y1="43.5" x2="29" y2="43.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="37" y1="42.5" x2="46" y2="42.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="14" y1="45.5" x2="31" y2="45.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="39" y1="44.5" x2="47" y2="44.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="37" y1="50.5" x2="41" y2="50.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="39" y1="48.5" x2="44" y2="48.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="34" y1="52.5" x2="40" y2="52.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="35" y1="54.5" x2="39" y2="54.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="32" y1="56.5" x2="39" y2="56.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="16" y1="47.5" x2="33" y2="47.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="41" y1="46.5" x2="46" y2="46.5" stroke="black" stroke-dasharray="2 2"/>
+<line x1="17" y1="49.5" x2="21" y2="49.5" stroke="black" stroke-dasharray="2 2"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 42 19)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 43 20)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 27 21)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 27 23)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 28 25)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 37 60)" fill="black"/>
+<rect width="2" height="1" transform="matrix(-1 0 0 1 38 58)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 30 29)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 20 51)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 43 18)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 42 17)" fill="black"/>
+<rect x="42" y="16" width="1" height="1" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 42 21)" fill="black"/>
+<path d="M24.2046 9.49994L27.2046 6.49994C29.7047 6.99994 30.7563 6.35161 32.2047 5.99994" stroke="black" stroke-width="0.5"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 44 23)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 44 25)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 45 27)" fill="black"/>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 46 29)" fill="black"/>
+<path d="M14.4547 73.4V79H13.1587V76.704H10.6147V79H9.31869V73.4H10.6147V75.608H13.1587V73.4H14.4547ZM21.8676 77.8H19.2676L18.7716 79H17.4436L19.9396 73.4H21.2196L23.7236 79H22.3636L21.8676 77.8ZM21.4596 76.816L20.5716 74.672L19.6836 76.816H21.4596ZM26.7046 73.4H28.0006V79H26.7046V73.4ZM36.8656 73.4V79H35.8016L33.0096 75.6V79H31.7296V73.4H32.8016L35.5856 76.8V73.4H36.8656ZM45.6866 79L45.6786 75.64L44.0306 78.408H43.4466L41.8066 75.712V79H40.5906V73.4H41.6626L43.7586 76.88L45.8226 73.4H46.8866L46.9026 79H45.6866ZM54.3192 77.8H51.7192L51.2232 79H49.8952L52.3912 73.4H53.6712L56.1752 79H54.8152L54.3192 77.8ZM53.9112 76.816L53.0232 74.672L52.1352 76.816H53.9112ZM59.1562 73.4H60.4522V79H59.1562V73.4ZM64.1812 73.4H65.4772V77.944H68.2852V79H64.1812V73.4Z" fill="black"/>
+<circle cx="4" cy="76" r="2.5" stroke="black"/>
+<rect x="4" y="75" width="4" height="2" fill="white"/>
+<path d="M2 77H0" stroke="black" stroke-width="0.8"/>
+<path d="M2 75H0" stroke="black" stroke-width="0.8"/>
+<path d="M2 77C2.55228 77 3 76.5523 3 76C3 75.4477 2.55228 75 2 75" stroke="black" stroke-width="0.8"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="68" height="79" fill="white"/>
+</clipPath>
+</defs>
+</svg>
